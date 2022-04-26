@@ -1,40 +1,37 @@
 * {
-  font-family: flatwave-body, arial, sans-serif;
+	font-family: flatwave-body, arial, sans-serif;
 }
 
-html, body {
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  left: 0;
-  top: 0;
-  overflow: auto;
+html,
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	left: 0;
+	top: 0;
+	overflow: auto;
 }
 
 body {
-  background-image: linear-gradient(#ee306b, #f47a49);
-  font-size: 13px;
-  color: #ffffff;
+	background-image: linear-gradient(#ee306b, #f47a49);
+	font-size: 13px;
+	color: #ffffff;
 }
 
 .title {
-  font-size: 24pt;
+	font-size: 24pt;
 }
 
 footer {
-  text-align: center;
-  margin: 20px 0;
+	text-align: center;
+	margin: 20px 0;
 }
 
 .factorial {
-  font-size: 13pt;
+	font-size: 13pt;
 }
 
 .meme {
-  margin: 15px 0;
-}
-
-.calc-button:hover {
-  color: #FFC107;
+	margin: 15px 0;
 }
